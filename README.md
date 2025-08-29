@@ -1,18 +1,14 @@
 # Hi there 👋
 
-I'm Akshit, a 3rd year Computer Science student at IIT Bombay.  
-I enjoy exploring computer science concepts and building projects to strengthen my skills.  
+I'm a third-year Computer Science student at IIT Bombay.  
+I enjoy learning new technologies and improving my problem-solving skills.
 
 ## 🔧 Skills
 - Programming: C++, Python (basics), Java (learning)
-- CS Fundamentals: Data Structures, Algorithms, OOP
-- Tools: Git, Linux, VS Code
+- CS Fundamentals: Data Structures, Algorithms, Operating Systems
+- Tools: Git, Linux, Ubuntu, VS Code
 
 ## 🌱 Currently Learning
 - Advanced C++ concepts
-- Operating Systems & Computer Networks
+- Computer Networks
 - Git & GitHub best practices
-
-## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/)  
-- [GitHub](https://github.com/your-username)
