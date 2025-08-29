@@ -12,3 +12,7 @@ I enjoy learning new technologies and improving my problem-solving skills.
 - Advanced C++ concepts
 - Computer Networks
 - Git & GitHub best practices
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit-iitb)  
+
